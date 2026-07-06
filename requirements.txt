@@ -1,0 +1,10 @@
+streamlit
+pymysql
+scikit-learn
+spacy
+pdfminer.six
+pyresparser
+pandas
+plotly
+nltk
+numpy
